@@ -19,10 +19,13 @@ This project is designed to control a car's headlight beams automatically using 
 ## 📁 Project Structure
 
 ├── Arduino
-│ └── high_beam_control.ino # Final Arduino code
+└── high_beam_control.ino # Final Arduino code
+
 ├── Python
-│ └── camera_detection.py # Webcam-based vehicle detection
+└── camera_detection.py # Webcam-based vehicle detection
+
 ├── target_image1.jpeg # Template image of car (to detect)
+
 ├── README.md # Project documentation
 
 
@@ -84,5 +87,12 @@ This project is designed to control a car's headlight beams automatically using 
    ser = serial.Serial('COM4', 9600)
 
 Shaik Faaz Ahmed
+
 Electronics and Communication Engineering
 Projects: Automatic High Beam Control
+
+
+--image for this---
+
+<img width="407" height="445" alt="image" src="https://github.com/user-attachments/assets/acebcd74-8c38-4ac8-80d1-f73bacb08a2e" />
+
